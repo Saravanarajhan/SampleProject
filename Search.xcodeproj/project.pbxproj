@@ -658,7 +658,7 @@
 				INFOPLIST_FILE = Search/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.citrixonline.development.iOS.GenericTestApp.Search;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saravana.development.iOS.GenericTestApp.Search;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -671,7 +671,7 @@
 				INFOPLIST_FILE = Search/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.citrixonline.development.iOS.GenericTestApp.Search;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saravana.development.iOS.GenericTestApp.Search;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -738,6 +738,7 @@
 				4DDF57801E6CDAF700A83161 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
